@@ -7,3 +7,9 @@
 >**git status**
 >
 >kontrolieren letzte Situation
+
+----
+
+>**git commit**
+>
+>man macht commit
