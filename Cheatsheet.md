@@ -6,6 +6,10 @@
 
 ------
 
+>**git add**
+>
+>Mit dem Befehl git add fügst du eine Änderung aus dem Arbeitsverzeichnis zur Staging-Umgebung hinzu.
+
 >**git status**
 >
 >kontrolieren letzte Situation
