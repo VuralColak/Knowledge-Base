@@ -18,6 +18,10 @@
 
 ------
 
+[bite klicken Sie nochmal hier für die andere GIT Befehle](https://education.github.com/git-cheat-sheet-education.pdf "GIT CHEAT SHEET")
+
+------
+
 # Wichtige Befehle für die Navigation
 
 >**pwd**
