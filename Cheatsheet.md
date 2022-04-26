@@ -38,6 +38,12 @@
 
 -----
 
+>**cd..**
+>
+>führt uns vom gegenwärtigen Verzeichnius eine Verzeichnisebene hoch
+
+-------
+
 # Wichtige Befehle für das Arbeiten mit Dateien und Verzeichnissen
 
 >**mkdir**
